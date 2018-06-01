@@ -62,7 +62,7 @@
   "devDependencies": {
     "cross-zip-cli": "^1.0.0",
     "dependency-check": "^3.0.0",
-    "hypercore": "^6.12.0",
+    "hypercore": "6.14.0",
     "hyperdiscovery": "^7.0.0",
     "mkdirp": "^0.5.1",
     "pkg": "^4.2.6",
